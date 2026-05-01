@@ -1,6 +1,7 @@
 # ⚽ Maç Veri ve Oran Çekici (Streamlit)
 
 Bu proje, seçilen tarih aralığına göre maç verilerini ve bahis oranlarını otomatik olarak çeken, görüntüleyen ve CSV / Excel olarak indirmenizi sağlayan bir Streamlit uygulamasıdır.
+https://veri-ve-oranlar.streamlit.app/
 
 ## 🚀 Özellikler
 
